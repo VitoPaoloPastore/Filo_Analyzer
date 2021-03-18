@@ -31,5 +31,6 @@ setuptools.setup(
 'segmentation-models==1.0.1','sklearn==0.0',
 'tensorboard==2.2.0',
 'tensorflow==2.2.0'],
-extra_requires= ['tensorflow-gpu==2.2.0']
+extra_requires= ['tensorflow-gpu==2.2.0'],
+zip_safe = False
 )
