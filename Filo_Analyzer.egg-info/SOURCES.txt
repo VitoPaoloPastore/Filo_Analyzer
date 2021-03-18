@@ -1,9 +1,0 @@
-README.md
-setup.py
-Filo_Analyzer/Filo_analyzer.py
-Filo_Analyzer/__init__.py
-Filo_Analyzer.egg-info/PKG-INFO
-Filo_Analyzer.egg-info/SOURCES.txt
-Filo_Analyzer.egg-info/dependency_links.txt
-Filo_Analyzer.egg-info/requires.txt
-Filo_Analyzer.egg-info/top_level.txt
