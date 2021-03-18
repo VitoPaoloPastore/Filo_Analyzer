@@ -67,11 +67,7 @@ In the folder Model in this repository, the user can find a pre-trained model on
 
 ![af_final](https://user-images.githubusercontent.com/51142446/111639468-94ec7e80-87fb-11eb-88b2-4c8552eb3c50.png)
 
-
-
 Fig2. Example of Filo_Analyzer filopodia analysis. A fluorescence cell image. B cell segmentation. C Laplacian of Gaussians (LoG) results. D detected filopodia. 
-
-
 
 ##### Filopodia detection refinement: Erosion, dilation and sigma parameter
 
@@ -80,8 +76,6 @@ Dilation and erosion can be used to improve the fine details segmentation of the
 
 Then, you can change this value to obtain better detection in post-processing. 
 The Sigma parameter in edge detection can be used to eliminate false positives, the higher the sigma, the lower the number of detected filopodia. The filopodia width factor is the threshold applied after contour detection for filopodia, on the minimum area for each of the detected filopodia. The higher the width factor, the higher the area detection accuracy (but some filopodia could be no more detected). 
-
-
 
 ##### Statistics computation 
 
