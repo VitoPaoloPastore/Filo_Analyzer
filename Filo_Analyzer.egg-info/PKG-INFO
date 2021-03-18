@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: Filo-Analyzer
+Version: 0.0.1
+Summary: Toolbox for image processing- and deep-learning - based cell filopodia detection and analysis
+Home-page: https://github.com/VitoPaoloPastore/Filo_Analyzer.git
+Author: Vito Paolo Pastore, Simone Bianco
+Author-email: vitopaolopastore@gmail.com
+License: UNKNOWN
+Description: Toolbox for image processing- and deep-learning - based cell filopodia detection and analysis
+Platform: UNKNOWN
