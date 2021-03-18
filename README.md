@@ -26,7 +26,7 @@ Filo_Analyzer is a multi-platform toolbox, it is compatible and been tested on U
 To run Filo_Analyzer, simply open python and use the following lines of code:
 
 ```
-From Filo_Analyzer import Filo_analyzer
+from Filo_Analyzer import Filo_analyzer
 
 ```
 
